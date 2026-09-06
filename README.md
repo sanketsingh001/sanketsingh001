@@ -337,7 +337,7 @@ modern systems and AI applications to use it.
 
 I'm interested in **backend engineering, distributed systems, AI infrastructure,
 developer platforms, and building products around real-world problems**.
-
+<p align="center"> <a href="mailto:singhsanket97@gmail.com">📧 Email</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="https://github.com/sanketsingh001">GitHub</a> </p>
 <p align="center">
   <strong>Build systems. Understand the internals. Make them better.</strong>
 </p>
