@@ -1,14 +1,20 @@
 <h1 align="center">Hi, I'm Sanket Singh 👋</h1>
 
-<p align="center">Software engineer building practical AI/data systems and resilient backend services.</p>
+<p align="center">
+  Software engineer building practical AI/data systems, resilient backend services, and polished product experiences.
+</p>
 
-## What I build
+<p align="center">
+  <a href="https://github.com/sanketsingh001?tab=repositories">Explore public repositories</a>
+</p>
 
-- **AI and data tooling** — turning raw audio and documents into usable, reviewable datasets.
-- **Backend and distributed systems** — dependable services, APIs, and infrastructure that hold up under failure.
-- **Developer-focused products** — useful workflows with clear documentation and a fast path to getting started.
+## Focus areas
 
-## Featured work
+- **Applied AI & data systems** — transforming unstructured audio and documents into accurate, reviewable datasets and workflows.
+- **Backend & distributed systems** — dependable APIs, asynchronous processing, shared state, and graceful failure handling.
+- **Product engineering** — full-stack web applications with secure authentication, role-aware dashboards, and useful end-to-end experiences.
+
+## Public work
 
 <table>
 <tr>
@@ -37,13 +43,17 @@
 </tr>
 </table>
 
+## Selected private product work
+
+Alongside the public projects above, I build private applications involving multi-role product dashboards, secure authentication, Supabase-backed data models, content and commerce flows, AI-assisted experiences, and production-ready deployment foundations. Details and demos are available on request.
+
 ## Core toolkit
 
-`Python` · `C#/.NET` · `JavaScript` · `React` · `FastAPI` · `Docker` · `Redis` · `PostgreSQL` · `Machine Learning` · `NLP`
+`Python` · `C#/.NET` · `TypeScript` · `JavaScript` · `React` · `Angular` · `Next.js` · `FastAPI` · `Docker` · `Redis` · `PostgreSQL` · `Supabase` · `Machine Learning` · `NLP`
 
 ## Let's connect
 
-If you are working on applied AI, backend reliability, or developer tools, I would be glad to connect and collaborate.
+Open to collaborating on applied AI, backend reliability, and product engineering.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanketsingh001&show_icons=true&hide_border=true&theme=transparent" alt="Sanket's GitHub stats" />
